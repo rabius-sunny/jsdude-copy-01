@@ -82,15 +82,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
-    <!-- Some example CSS code -->
-    body {
-      color: #333;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
-    p {
-    color: #333;
-    }
+```
+
+body {
+  color: #333;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+p {
+color: #333;
+}
+```
 
 ## Video Embeds
 
