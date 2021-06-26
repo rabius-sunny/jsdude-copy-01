@@ -101,7 +101,9 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 
 ##
 
-body {
+    body {
+
+<!---->
 
     color: #333;
     font-family: Roboto, Helvetica, Arial, sans-serif;
@@ -111,6 +113,9 @@ body {
 p {
 color: #333;
 }
+
+```
+```
 
 # Tables
 
