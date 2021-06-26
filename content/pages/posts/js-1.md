@@ -7,7 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Js - 1
-  description: ''
+  description: The first post
   robots: []
   extra: []
   type: stackbit_page_meta
