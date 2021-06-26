@@ -33,7 +33,7 @@ sections:
         style: button
 seo:
   title: jsDude - Home
-  description: The preview of the Fresh theme
+  description: Learn programming with Javascript
   extra:
     - name: 'og:type'
       value: website
