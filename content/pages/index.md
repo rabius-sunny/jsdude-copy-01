@@ -42,7 +42,7 @@ seo:
       value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Learn programming with Javascript
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
