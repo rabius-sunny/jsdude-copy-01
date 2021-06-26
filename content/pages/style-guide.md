@@ -89,9 +89,9 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
   font-family: Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
     }
-    p {
+p {
     color: #333;
-    }
+ }
 ```
 
 ```
