@@ -32,7 +32,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: jsDude - Home
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
