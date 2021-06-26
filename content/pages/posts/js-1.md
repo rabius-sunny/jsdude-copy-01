@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/important-daffodil.png
+content_img_path: /images/curious-robin.png
 ---
 ## Lorem ipsum
 
