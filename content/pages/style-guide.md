@@ -84,14 +84,14 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 
 ```
 
-body {
+    body {
   color: #333;
   font-family: Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
-}
-p {
-color: #333;
-}
+    }
+    p {
+    color: #333;
+    }
 
 ```
 
@@ -106,9 +106,10 @@ body {
     color: #333;
     font-family: Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.5;
+
 }
 p {
-    color: #333;
+color: #333;
 }
 
 # Tables
