@@ -102,9 +102,9 @@ color: #333;
 ##
 
 body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+ color: #333;
+ font-family: Roboto, Helvetica, Arial, sans-serif;
+ line-height: 1.5;
 }
 p {
 color: #333;
