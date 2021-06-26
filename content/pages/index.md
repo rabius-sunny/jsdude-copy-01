@@ -39,7 +39,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: jsDude
       keyName: property
     - name: 'og:description'
       value: Learn programming with Javascript
