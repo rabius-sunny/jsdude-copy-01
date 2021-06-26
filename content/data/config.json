@@ -70,7 +70,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Rabius Sunny and Stackbit. No rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Rabius Sunny and Stackbit. No rights reserved. Learn coding and spread knowledge"
     },
     "domain": "https://jsdude-73a70.netlify.app"
 }
