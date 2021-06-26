@@ -92,7 +92,9 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
     p {
     color: #333;
     }
+```
 
+```
 ```
 
 ## Video Embeds
