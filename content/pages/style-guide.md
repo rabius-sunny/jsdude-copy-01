@@ -92,13 +92,25 @@ body {
 p {
 color: #333;
 }
+
 ```
 
 ## Video Embeds
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tables
+##
+
+body {
+  color: #333;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+p {
+color: #333;
+}
+
+# Tables
 
 <div class="responsive-table">
   <table>
