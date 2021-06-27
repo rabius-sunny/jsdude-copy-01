@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'I am Rabius Sunny, a junior developer.'
+subtitle: 'Nothing special about me, I am nobody.'
 img_path: /images/elite-mars.png
 img_alt: Portrait of a man with beard and mustache
 seo:
