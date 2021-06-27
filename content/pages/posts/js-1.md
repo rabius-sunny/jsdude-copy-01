@@ -7,7 +7,11 @@ seo:
   title: Computer Programming
   description: Start with fundamentals of Computer Programming
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/magenta-robin.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/fierce-mango.jpg
