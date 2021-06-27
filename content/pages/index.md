@@ -14,11 +14,13 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      আপনি যদি প্রোগ্রামিং শেখা শুরু করেন এবং সেটা জাভাস্ক্রিপ্ট দিয়েই, তাহলে
+      আপনাকে স্বাগতম। 
+
+
+      এখানে আমরা সকলে জাভাস্ক্রিপ্ট দিয়ে প্রোগ্রামিং এর বেসিক শিখবো। তবে আপনাকে
+      অবশ্যই এখানকার রুলস মেনে চলতে হবে। 
     actions:
       - label: Contact Me
         url: /contact
