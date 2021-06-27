@@ -2,7 +2,8 @@
 title: Blog
 seo:
   title: JsDude - Lessons
-  description: This is the blog page
+  description: |
+    This is the blog page of JsDude
   extra:
     - name: 'og:type'
       value: website
