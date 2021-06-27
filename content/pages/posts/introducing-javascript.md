@@ -15,7 +15,11 @@ seo:
   title: Introducing Javascript
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Introducing Javascript
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/javascript-featured.png
