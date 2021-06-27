@@ -4,7 +4,7 @@ date: '2020-12-11'
 thumb_img_alt: computer programming
 content_img_alt: computer programming
 seo:
-  title: Js - 1
+  title: Computer Programming
   description: The first post
   robots: []
   extra: []
