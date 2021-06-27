@@ -20,6 +20,10 @@ seo:
       value: Introducing Javascript
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/images/spectacular-chestnut.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/javascript-featured.png
