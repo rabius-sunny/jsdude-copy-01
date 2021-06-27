@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Lessons | Jsdude
       keyName: property
     - name: 'og:description'
       value: This is the blog page
