@@ -1,6 +1,6 @@
 ---
 title: Introducing Javascript
-subtitle: lorem-ipsum
+subtitle: জাভাস
 date: '2021-06-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
