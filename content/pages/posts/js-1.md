@@ -1,6 +1,6 @@
 ---
 title: Computer Programming
-date: '2021-06-26'
+date: '2021-12-26'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
