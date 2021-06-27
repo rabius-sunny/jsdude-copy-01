@@ -12,7 +12,7 @@ excerpt: >-
   বলতো। কিন্তু এই খেলনা লেঙ্গুয়েজটিই নিজেকে এমনভাবে মেলে ধরলো এবং অবিশ্বাস্য সব
   টেকনলোজি নিয়ে হাজির হলো যে একে আর টয় হয়ে থাকতে হলো না।
 seo:
-  title: ''
+  title: Introducing Javascript
   description: ''
   robots: []
   extra: []
