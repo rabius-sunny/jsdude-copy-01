@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: /images/important-daffodil.png
+thumb_img_path: /images/fierce-mango.jpg
 content_img_path: /images/cp.jpg
 ---
 ## Lorem ipsum
