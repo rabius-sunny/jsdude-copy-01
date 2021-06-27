@@ -1,9 +1,9 @@
 ---
 title: শুরুর আগে
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  শুরু করার আগে যে যে সেটআপ প্রয়োজন তা ভালো করে দেখে নাও ও ফুলফিল করো। কম্পিউটার
+  বা মোবাইল উভয় ইউজারের সেটআপই এখানে দেখানো হলো। এসংক্রান্ত যেকোন সমস্যায়
+  স্ক্রীনশটসহ মেইল করে জানিয়ে দিও।
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
