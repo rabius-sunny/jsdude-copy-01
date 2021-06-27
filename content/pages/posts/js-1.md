@@ -5,7 +5,7 @@ thumb_img_alt: computer programming
 content_img_alt: computer programming
 seo:
   title: Computer Programming
-  description: The first post
+  description: Start with fundamentals of Computer Programming
   robots: []
   extra: []
   type: stackbit_page_meta
