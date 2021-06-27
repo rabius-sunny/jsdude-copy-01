@@ -33,7 +33,7 @@ layout: page
 ---
 ***Rabius Sunny** is a junior developer who just started his journey to software development.*
 
-He has a dream to be a Software Engineer who'll work for fulfilling some of his dream. 
+He has a dream to be a Software Engineer who'll work for fulfilling some of his dream.
 
 Get his [*Portfolio here*](https://rabius-sunny.netlify.app).
 
