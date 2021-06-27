@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: /images/what_is_javascript-300x182.jpg
 ---
 ## Lorem ipsum
 
