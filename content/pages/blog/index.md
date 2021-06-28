@@ -16,7 +16,7 @@ seo:
         This is the Lesson page of JsDude
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /_static/app-assets/images/maroon-potato.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
