@@ -20,7 +20,7 @@ sections:
       শিখবো।
     actions:
       - label: get started
-        url: /contact
+        url: /style-guide
         style: button
   - section_id: recent-posts
     type: section_posts
