@@ -1,5 +1,5 @@
 ---
-title: About This Project
+title: About The Project
 subtitle: >-
   This project is build for learn the fundamentals of programming with
   Javascript and we'll learn together.
