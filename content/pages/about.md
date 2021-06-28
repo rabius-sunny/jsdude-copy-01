@@ -7,9 +7,7 @@ img_path: /images/js2.webp
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About JsDude
-  description: |-
-    This is the about page of JsDude
-    ]
+  description: This is the about page of JsDude
   extra:
     - name: 'og:type'
       value: website
