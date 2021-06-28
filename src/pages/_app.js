@@ -1,5 +1,5 @@
 import '../sass/main.scss';
-import './font.css'
+import '../'
 
 // This default export is required in a new `pages/_app.js` file.
 export default function MyApp({ Component, pageProps }) {
