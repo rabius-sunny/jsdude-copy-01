@@ -5,7 +5,7 @@ subtitle: >-
   বা মোবাইল উভয় ইউজারের সেটাপই এখানে দেখানো হলো। এসংক্রান্ত যেকোন সমস্যায়
   স্ক্রীনশটসহ মেইল করে জানিয়ে দিও।
 seo:
-  title: Theme Style Guide
+  title: Before Starting at JsDude
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
