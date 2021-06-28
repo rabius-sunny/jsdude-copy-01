@@ -22,7 +22,7 @@ export default class Action extends React.Component {
             attrs.rel = [(newWindow ? 'noopener' : ''), (noFollow ? 'nofollow' : '')].filter(Boolean).join(' ');
         }
         return (
-            <Link href={withPrefix(url)} {...attrs} className={classes}>
+            <Link style={{backgroundColor: 'transparent'}} href={withPrefix(url)} {...attrs} className={classes}>
                 {label}
             </Link>
         );
