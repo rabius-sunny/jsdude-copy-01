@@ -19,7 +19,7 @@ sections:
       তোমাকে স্বাগতম। এখানে আমরা সকলে জাভাস্ক্রিপ্ট দিয়ে প্রোগ্রামিং এর বেসিক
       শিখবো।
     actions:
-      - label: Contact Me
+      - label: get started
         url: /contact
         style: button
   - section_id: recent-posts
