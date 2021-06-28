@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:title'
       value: jsDude
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Learn programming with Javascript
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
