@@ -1,8 +1,8 @@
 ---
 title: About This Project
 subtitle: >-
-  This project is for learn the fundamentals of programming with Javascript and
-  we'll learn together.
+  This project is build for learn the fundamentals of programming with
+  Javascript and we'll learn together.
 img_path: /images/js2.webp
 img_alt: Portrait of a man with beard and mustache
 seo:
