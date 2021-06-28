@@ -44,7 +44,7 @@ seo:
       value: Learn programming with Javascript
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/polite-anemone.jpeg
+      value: /_static/app-assets/images/oval-tortoise.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
