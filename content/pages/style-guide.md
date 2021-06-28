@@ -6,7 +6,8 @@ subtitle: >-
   স্ক্রীনশটসহ মেইল করে জানিয়ে দিও।
 seo:
   title: Before Starting at JsDude
-  description: A reference for suggested typographic treatment and styles for your content
+  description: |
+    Guids for starting learning at JsDude
   extra:
     - name: 'og:type'
       value: website
