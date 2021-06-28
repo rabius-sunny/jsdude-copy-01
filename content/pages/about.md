@@ -6,7 +6,7 @@ subtitle: >-
 img_path: /images/js2.webp
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
+  title: About JsDude
   description: This is the about me page
   extra:
     - name: 'og:type'
