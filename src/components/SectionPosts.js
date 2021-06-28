@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-
 import { getPageUrl, Link, withPrefix } from '../utils';
 import CtaButtons from './CtaButtons';
 
@@ -18,7 +17,7 @@ export default class SectionPosts extends React.Component {
 
         return (
             <article key={index} className="post post-card">
-                <div className="post-inside">
+                <div className="post-inside" style={{boxShadow: '-2px -2px 10px rgba(0,0,0,0.2)'}}>
                     {thumbImage && (
                         <Link className="post-thumbnail" href={postUrl}>
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
@@ -31,7 +30,7 @@ export default class SectionPosts extends React.Component {
                     </header>
                     {excerpt && (
                         <div className="post-content">
-                            <p>{excerpt}</p>
+                            <p className="kalpurush">{excerpt}</p>
                         </div>
                     )}
                     <footer className="post-meta">
