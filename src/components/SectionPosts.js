@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import './font.css'
 import { getPageUrl, Link, withPrefix } from '../utils';
 import CtaButtons from './CtaButtons';
 
