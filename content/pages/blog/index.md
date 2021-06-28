@@ -13,7 +13,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: |
-        This is the blog page of JsDude
+        This is the Lesson page of JsDude
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
