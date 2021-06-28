@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Before Starting at JsDude
       keyName: property
     - name: 'og:description'
       value: >-
