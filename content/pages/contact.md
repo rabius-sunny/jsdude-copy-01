@@ -8,8 +8,14 @@ sections:
       Due to some template issue, you can't message me here with this form.
 
 
-      ##### To ask your question, please [**go
+      ###### To ask your question, please [**go
       here**](https://rabius-sunny.netlify.app/contact)
+
+
+      Or you can mail me your problem at *rabiussunnyc3x@gmail.com*
+
+
+      #####
     form_id: contactForm
     form_action: /thank-you
     form_fields:
