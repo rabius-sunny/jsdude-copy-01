@@ -18,7 +18,7 @@ export default class SectionPosts extends React.Component {
 
         return (
             <article key={index} className="post post-card">
-                <div className="post-inside">
+                <div className="post-inside" style={{boxShadow: '1px 1px 10px rgba(0,0,0,0.2)'}}>
                     {thumbImage && (
                         <Link className="post-thumbnail" href={postUrl}>
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
