@@ -17,7 +17,7 @@ export default class SectionPosts extends React.Component {
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
-            <article key={index} className="post post-card">
+            <article key={index} className="post post-card" style={{boxShadow: '1px 1px 10px '}}>
                 <div className="post-inside">
                     {thumbImage && (
                         <Link className="post-thumbnail" href={postUrl}>
