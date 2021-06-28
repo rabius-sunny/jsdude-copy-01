@@ -1,2 +1,2 @@
 # Welcome to JsDude
-Learn Programming Fundamentals with Javascript
+Learn Programming Fundamentals with Javascript.
