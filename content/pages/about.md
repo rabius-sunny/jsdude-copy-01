@@ -16,7 +16,7 @@ seo:
       value: About jsDude
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: This is the about page of jsDude
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/terrific-birch.webp
