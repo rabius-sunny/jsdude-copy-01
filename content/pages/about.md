@@ -19,7 +19,7 @@ seo:
       value: This is the about me page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/images/terrific-birch.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
