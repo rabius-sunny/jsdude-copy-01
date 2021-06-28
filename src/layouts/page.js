@@ -20,7 +20,7 @@ export default class Page extends React.Component {
                 <article className="post page post-full">
                     <header className="post-header inner-sm">
                         <h1 className="post-title underline kalpurush">{title}</h1>
-                        {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
+                        {subtitle && <div className="post-subtitle kalpurush">{htmlToReact(subtitle)}</div>}
                     </header>
                     {image && (
                         <div className="post-image">
