@@ -128,7 +128,7 @@ export default class Header extends React.Component {
                                 </p>
                             )}
                             <div className="site-identity">
-                                <p className="site-title"><Link style={{backgroundColor: 'transparent', color: 'yellow'}} href={withPrefix('/')}>{title}</Link></p>
+                                <p className="site-title"><Link style={{backgroundColor: 'transparent', color: '#ffe100'}} href={withPrefix('/')}>{title}</Link></p>
                                 {tagline && <p className="site-description">{tagline}</p>}
                             </div>
                             {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && <button id="menu-toggle" className="menu-toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}><span className="screen-reader-text">Menu</span><span className="icon-menu" aria-hidden="true" /></button>}
