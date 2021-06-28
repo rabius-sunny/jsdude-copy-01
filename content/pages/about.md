@@ -1,6 +1,6 @@
 ---
 title: About This Project
-subtitle: 'Nothing special about me, I am nobody.'
+subtitle: This project is
 img_path: /images/elite-mars.png
 img_alt: Portrait of a man with beard and mustache
 seo:
