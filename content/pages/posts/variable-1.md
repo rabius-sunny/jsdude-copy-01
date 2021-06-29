@@ -3,7 +3,7 @@ title: Variable & Scope
 subtitle: 'variable, block scope, global scope'
 date: '2021-06-29'
 thumb_img_alt: variables
-content_img_alt: lorem-ipsum
+content_img_alt: variables
 excerpt: lorem-ipsum
 seo:
   title: ''
