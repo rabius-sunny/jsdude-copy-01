@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Variable & Scope
 subtitle: lorem-ipsum
 date: '2021-06-29'
 thumb_img_alt: lorem-ipsum
