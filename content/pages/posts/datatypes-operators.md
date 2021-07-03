@@ -2,7 +2,7 @@
 title: Data Type and Operator
 subtitle: 'Number, String, Boolean and operators'
 date: '2021-07-03'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: data type
 content_img_alt: lorem-ipsum
 excerpt: >-
   প্রোগ্রামিং এ আমরা প্রচুর ডেটা ব্যবহার করি। ডেটাগুলো ব্যবহারের পূর্বে আমরা
