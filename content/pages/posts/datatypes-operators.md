@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Data Type and Operator
 subtitle: lorem-ipsum
 date: '2021-07-03'
 thumb_img_alt: lorem-ipsum
