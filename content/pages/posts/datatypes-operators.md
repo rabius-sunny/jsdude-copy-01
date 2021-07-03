@@ -1,6 +1,6 @@
 ---
 title: Data Type and Operator
-subtitle: lorem-ipsum
+subtitle: 'Number, String, Boolean and operators'
 date: '2021-07-03'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
