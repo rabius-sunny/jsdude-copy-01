@@ -4,7 +4,10 @@ subtitle: 'Number, String, Boolean and operators'
 date: '2021-07-03'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: Basic Data Type
+excerpt: >-
+  প্রোগ্রামিং এ আমরা প্রচুর ডেটা ব্যবহার করি। ডেটাগুলো ব্যবহারের পূর্বে আমরা
+  সেগুলোকে ভেরিএবলে স্টোর করি। তাহলে প্রয়োজনমতো ভেরিএবলগুলোকে নাম ধরে ডাক দিয়ে
+  ব্যবহার করত পারি। তো, এই ডেটাগুলোর আবার বিভিন্ন প্রকারভেদ আছে।
 seo:
   title: ''
   description: ''
