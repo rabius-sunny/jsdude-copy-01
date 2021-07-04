@@ -102,7 +102,7 @@ sum ভেরিএবলটি একটি Number টাইপ। তুমি
 
 ## Data Type : String
 
-স্ট্রিং হচ্ছে এক বা একাধিক character মিলে একটি **টেক্সট** যাকে single quotation ( ' ' ) বা double quotation ( " " ) ভিতরে রাখা হয়। আবার backticks ( \` \` ) এর ভিতরেও রাখা যায় তবে এর পাওয়ার অনেক বেশি। যেমন কয়েকটি স্ট্রিং
+স্ট্রিং হচ্ছে এক বা একাধিক character মিলে একটি **টেক্সট** যাকে single quotation ( ' ' ) বা double quotation ( " " ) এর ভিতরে রাখা হয়। আবার backticks ( \` \` ) এর ভিতরেও রাখা যায় তবে এর পাওয়ার অনেক বেশি। যেমন কয়েকটি স্ট্রিং
 
     let firstName = "Muhammad" ;
     let lastName = "Rabee" ;
