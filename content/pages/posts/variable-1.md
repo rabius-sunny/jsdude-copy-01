@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/variables.png
-content_img_path: /images/marvelous-basil.jpeg
+content_img_path: /images/violet-onion.png
 ---
 Variable অর্থ পরিবর্তনশীল। ধরো এমন একটি পাত্র যেখানে ডেটা রাখা যায় এবং অন্য স্থানে সেটা ব্যবহার করা যায়।
 যেমন একটি গ্লাস কল্পনা করো। সেখানে আমরা কখনো পানি রাখতে পারি, আবার কখনো দুধও রাখি। অর্থাৎ এটা vary করে বা পরিবর্তিত হয় তাই একে বলা যায় Variable. তাহলে এই ভেরিএবল হলো একটি পাত্র যেখানে আমরা বিভিন্ন প্রকার ডেটা রাখি।
