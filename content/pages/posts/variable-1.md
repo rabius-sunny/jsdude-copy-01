@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: /images/variables.jpeg
+thumb_img_path: /images/variables.png
 content_img_path: /images/marvelous-basil.jpeg
 ---
 Variable অর্থ পরিবর্তনশীল। ধরো এমন একটি পাত্র যেখানে ডেটা রাখা যায় এবং অন্য স্থানে সেটা ব্যবহার করা যায়।
