@@ -1,3 +1,3 @@
 # Welcome to JsDude
 <p> This is a NextJs blog made with Stackbit.
-Learn Programming Fundamentals with Javascript.
+<p> Through this blog we'll learn Programming Fundamentals with Javascript.
